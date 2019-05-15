@@ -52,7 +52,7 @@
 				color: #333;
 			}
 			.tab-bar-link.active{
-
+				color: #f21;
 			}
 		}
 	}
