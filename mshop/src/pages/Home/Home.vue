@@ -24,7 +24,7 @@
 					<li class="product-item">
 						<img class="product-image" src="../../assets/images/1.jpg" alt="">
 						<div class="product-content">
-							<h4 class="product-name">海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视</h4>
+							<h4 class="product-name">海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔电视海尔dfddsdgdgsd电视海尔电视</h4>
 							<p class="product-price">$1111.00</p>
 							<span class="btn-buy">购买</span>
 						</div>
